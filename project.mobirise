@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "undercon.html",
+    "currentPage": "index.html",
     "name": "DIY Jason - Handmade rubber stamp",
     "theme": {
       "name": "mobirise3",
@@ -35,7 +35,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -291,7 +291,7 @@
           },
           "title": "客製 &nbsp;你的印章<br>細說 &nbsp;你的故事",
           "text": "想將重要的事，重要的人，重要的寵物造成印章，<br>說屬於你們的故事嗎？",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">訂造詳情</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"produtcs.html\" data-toolbar=\"-mbrBtnMove\">詳情</a>"
         }
       ]
     },
@@ -416,7 +416,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -862,7 +862,7 @@
     },
     "undercon.html": {
       "settings": {
-        "order": 3
+        "order": 5
       },
       "components": [
         {
