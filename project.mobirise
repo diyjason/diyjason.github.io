@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "produtcs.html",
     "name": "DIY Jason - Handmade rubber stamp",
     "theme": {
       "name": "mobirise3",
@@ -66,9 +66,9 @@
                 "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "一個印章 &nbsp;一個故事",
+                "title": "一個印章 <br>一個故事",
                 "showText": true,
-                "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">《半斤八両》是70年代燴炙人口的一輯電影，</span><br><span style=\"font-style: normal;\">由許氏三兄弟主演，</span><br><span style=\"font-style: normal;\">故事充份反映70年代香港人的生活。</span><br><span style=\"font-style: normal;\">電影海報由海報師阮大勇先生人手繪畫。</span>",
+                "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">《半斤八両》是70年代</span><br><span style=\"font-style: normal;\">燴炙人口的一輯電影，</span><br><span style=\"font-style: normal;\">由許氏三兄弟主演，</span><br><span style=\"font-style: normal;\">故事充份反映70年代</span><br><span style=\"font-style: normal;\">香港人的生活。</span><br><span style=\"font-style: normal;\">電影海報由海報師阮大勇先生</span><br><span style=\"font-style: normal;\">人手繪畫。</span>",
                 "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -81,9 +81,9 @@
                 "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "一個印章 &nbsp;一個故事<br>",
+                "title": "一個印章 <br>一個故事<br>",
                 "showText": true,
-                "text": "<br><span style=\"font-style: normal;\">1967年香港發生暴動，平息後社會仍然不穩，<br>香港政府為了恢復社會氣氛，</span><br><span style=\"font-style: normal;\">分別於1969，1971及1973年舉行大型的慶祝活動，<br>名為《香港節》</span><span style=\"font-style: normal;\"><br></span>",
+                "text": "<br><span style=\"font-style: normal;\">1967年香港發生暴動，</span><br><span style=\"font-style: normal;\">平息後社會仍然不穩，<br>香港政府為了恢復社會氣氛，</span><br><span style=\"font-style: normal;\">分別於1969，1971及1973年</span><br><span style=\"font-style: normal;\">舉行大型的慶祝活動，<br>名為《香港節》</span><span style=\"font-style: normal;\"><br></span>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -96,9 +96,9 @@
                 "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "一個印章 &nbsp;一個故事",
+                "title": "一個印章 <br>一個故事",
                 "showText": true,
-                "text": "<br>和昌大押由四幢相連、設有長廊式陽臺的樓宇組成，<br>樓高四層，分別建於1888至1900年代，<br>土地由填海所得，建築物已有逾百年歷史。<br><br>",
+                "text": "<br>和昌大押由四幢相連、<br>設有長廊式陽臺的樓宇組成，<br>樓高四層，<br>分別建於1888至1900年代，<br>土地由填海所得，<br>建築物已有逾百年歷史。<br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -111,9 +111,9 @@
                 "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "一個印章 &nbsp;一個故事",
+                "title": "一個印章 <br>一個故事",
                 "showText": true,
-                "text": "<br>懲教署懷舊招聘廣告，從文字得知當時懲教署職員的入職條件。<br>另外前途佳以及福利好都是吸引人應徵的賣點。",
+                "text": "<br>懲教署懷舊招聘廣告，<br>從文字得知當時懲教署職員<br>的入職條件。<br>另外前途佳以及福利好<br>都是吸引人應徵的賣點。",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -290,7 +290,7 @@
             }
           },
           "title": "客製 &nbsp;你的印章<br>細說 &nbsp;你的故事",
-          "text": "想將重要的事，重要的人，重要的寵物造成印章，<br>說屬於你們的故事嗎？",
+          "text": "想將重要的事，重要的人，<br>重要的寵物造成印章，<br>說屬於你們的故事嗎？",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"produtcs.html\" data-toolbar=\"-mbrBtnMove\">詳情</a>"
         }
       ]
@@ -738,7 +738,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "客製 你的印章 &nbsp; 細說 你的故事",
+          "title": "客製 你的印章<br>細說 你的故事",
           "meta": "<br><br>＊每個印章由人手用心製作<br>＊使用日本Seed橡皮磚製作，耐用耐放"
         },
         {
