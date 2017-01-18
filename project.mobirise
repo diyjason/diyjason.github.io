@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "produtcs.html",
+    "currentPage": "intro.html",
     "name": "DIY Jason - Handmade rubber stamp",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 36,
+    "uniqCompNum": 44,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -301,6 +301,55 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-13",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "上色及蓋印",
+          "text": "印章面向上，印台向下在印章上輕力拍<font color=\"#000000\">打至色彩飽滿 &lt;-- 所以大印章都可以用小印台拍打上色</font><br><font color=\"#000000\"><br></font>將印章放在紙上，用手指頭用力按壓印章背面每一吋地方，令油墨印到紙上<br><br>完成蓋印後，在廢紙上多印幾次，直至印去所有油墨，便可以使用另一種顏色的印台",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -406,6 +455,131 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-12",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "清潔",
+          "text": "如<font color=\"#000000\">使用一般水性印台，使用清水和濕布輕力抺就可</font><br><br><font color=\"#000000\">如用其他印台，就未必能夠清洗乾淨，雖然不會影響使用其他顏色的印</font><font color=\"#000000\">台，但會令印章看起來穢穢的</font><br><font color=\"#000000\"><br></font><font color=\"#000000\">不過在上色時小心一點，便可讓印章保持乾淨一點<br></font><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "存放",
+          "text": "手作 J 橡皮印章均用日本Seed專用橡皮磚製作，較一般橡皮耐用，而且可以放在膠製器具內而不會溶掉<br><br>一般來說，如沒有硬物刮損橡皮印章的話，正常使用並不會令印章耗損 ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -606,6 +780,33 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-16",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -857,6 +1058,33 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-17",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
