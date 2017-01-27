@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "produtcs.html",
     "name": "DIY Jason - Handmade rubber stamp",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 45,
+    "uniqCompNum": 49,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -941,7 +941,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<font color=\"#000000\">寵物印章</font>",
+          "title1": "<font color=\"#000000\">寫實寵物印章</font>",
           "subtitle1": "為自己的貓狗製作紀念印章",
           "caption1": "以獨特的方法，將竉物照片設計出寫實像真的初稿，再製作出精緻的寵物印章，為家中主子獻上獨一無二的貢品。",
           "button1": "<a data-app-btn=\"true\" href=\"undercon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">詳情</a>",
@@ -957,9 +957,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "人像印章",
+          "title2": "寫實人像印章",
           "subtitle2": "為自己重要的人製作紀念印章",
-          "caption2": "為心愛的另一半，或家人好友，製作一份紀念品，好好表達你們之間的情。",
+          "caption2": "為心愛的另一半，或家人好友，製作一份紀念品，好好記錄你們之間的故事。",
           "button2": "<a data-app-btn=\"true\" href=\"undercon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">詳情</a>",
           "media3": {
             "image": {
@@ -973,7 +973,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "指定圖案印章",
+          "title3": "重製手作J印章",
           "subtitle3": "重新訂製手作 J 作品",
           "caption3": "喜歡手作 J 的作品，想據為己有嗎？可以考慮重新訂製一個呢！",
           "button3": "<a data-app-btn=\"true\" href=\"undercon.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">詳情</a>",
@@ -1017,6 +1017,218 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-19",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-1-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "寫實寵物印章",
+          "text": "簡介: 以相片為基礎，製作寫實的印章<br><br>流程: <br>- 收集約3張相片 -&gt;（3工作天）起稿<br>- 確定稿件 -&gt; （10工作天）完成<br>- 佐敦面交或郵寄（包平郵）<br>*如相片質素欠佳，便需要較多時間完成<br><br>收費: <br>印章一般尺寸為8cm x 8cm<br>寵物頭像: $400<br>*其他尺寸或要求另議<br><br>額外配件:<br>$60，5”x7”立體相架，可將印章放入展示用<br>$25，小印台（2.5cm x 2.5cm）<br>$90，大印台（7cm x 5cm）<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-20-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "寫實人像印章",
+          "text": "簡介: 以相片為基礎，製作寫實的印章<br><br>流程: <br>- 收集約3張相片 -&gt;（3工作天）起稿<br>- 確定稿件 -&gt; （10工作天）完成<br>- 佐敦面交或郵寄（包平郵）<br>*如相片質素欠佳，便需要較多時間完成<br><br>收費: <br>印章一般尺寸為8cm x 8cm<br>單人半身: $150<br>雙人半身: <font color=\"#000000\">$250</font><br>*其他尺寸或要求另議<br><br>額外配件:<br>$60，5”x7”立體相架，可將印章放入展示用<br>$25，小印台（2.5cm x 2.5cm）<br>$90，大印台（7cm x 5cm）<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1b",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-20-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "重製手作J印章",
+          "text": "簡介: 從手作J的作品中挑選，重新製作印章<br><br>流程: <br>- 選擇作品及提出尺寸要求 -&gt;（3工作天）回覆合適尺寸及報價<br>- 確定訂單 -&gt; （10工作天）完成<br>- 佐敦面交或郵寄（包平郵）<br>*如設計複雜，便需要較多時間完成<br><br>收費: <br>按圖案複雜程度及印章大小而定，歡迎查詢報價<br><br>額外配件:<br>$25，小印台（2.5cm x 2.5cm）<br>$90，大印台（7cm x 5cm）<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1c",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-20-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<font color=\"#000000\">自定圖案</font>印章",
+          "text": "簡介: 根據圖檔製作印章，可提供簡單設計<br><br>流程:<br>- 收集圖檔及要求 -&gt; 3工作天）起稿<br>- 確定稿件 -&gt; （10工作天）完成<br>- 面交或郵寄（包平郵）<br>*如設計複雜，便需要較多時間完成<br><br>收費: <br>按圖案複雜程度及印章大小而定，歡迎提供圖檔報價<br><br>額外配件:<br>$60，5”x7”立體相架，可將印章放入展示用<br>$25，小印台（2.5cm x 2.5cm）<br>$90，大印台（7cm x 5cm）<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "social-buttons2",
