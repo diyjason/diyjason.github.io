@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 63,
+    "uniqCompNum": 66,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -1141,6 +1141,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-1a",
           "_params": {
@@ -1207,6 +1220,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-1s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-1b",
           "_params": {
@@ -1262,6 +1288,19 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
