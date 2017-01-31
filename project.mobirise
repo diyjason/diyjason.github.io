@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 62,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -1031,6 +1031,19 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
