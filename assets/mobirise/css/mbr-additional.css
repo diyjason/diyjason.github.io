@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 
 
 
@@ -562,6 +563,7 @@ h6,
 #social-buttons4-15 .btn-social {
   color: #fff;
 }
+
 #header3-1x .mbr-section-title,
 #header3-1x .mbr-section-subtitle {
   text-align: center;
@@ -653,6 +655,10 @@ h6,
 #social-buttons4-16 .mbr-section-title,
 #social-buttons4-16 .btn-social {
   color: #fff;
+}
+#social-buttons4-16 .mbr-section-title SPAN {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 24px;
 }
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
