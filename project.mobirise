@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "intro.html",
     "name": "DIY Jason - Handmade rubber stamp",
     "theme": {
       "name": "mobirise3",
@@ -598,11 +598,11 @@
           "_anchor": "header1-k",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-18-2000x1334-46.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -643,11 +643,11 @@
           "_anchor": "header1-i",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/j-logo-2017-single-orangesmall-jpg-2000x2000.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/j_logo_2017_single_orange(small_jpg)-2000x2000.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -733,7 +733,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
