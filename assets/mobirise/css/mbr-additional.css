@@ -565,6 +565,13 @@ h6,
 }
 
 
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-1y P {
+  font-size: 20px;
+}
 #header1-k .mbr-section-title {
   color: #000000;
   text-align: center;

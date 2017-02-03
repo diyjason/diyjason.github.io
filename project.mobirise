@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 67,
+    "uniqCompNum": 71,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -580,6 +580,44 @@
         "order": 2
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "甚麼是橡皮印章？",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>橡皮印章以橡皮擦為素材，以人手運用筆刀在橡皮上游走，將多餘的位置清除，製作成印章。雕刻專用的橡皮較一般的橡皮耐用，除非被硬物割損，否則正常使用並不會造成秏損。</p><p><br></p><p>「手造橡皮印章是藝術品」</p><p><br></p><p>橡皮印章除了可以用來印刷外，手造的印章本身已經是一件雕刻藝術品。筆刀在橡皮磚上遊走過後，將多餘的地方雕走，近看印章，就像大峽谷一樣，山脈綿綿，而山頂的位置，就是印出來的圖案。從印章中的落刀位置，可以看出手作人如何落刀，落刀次序以及技巧，是機器製作的印章中不能看到的細節，是手造印章自身經歷的故事。</p>",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
