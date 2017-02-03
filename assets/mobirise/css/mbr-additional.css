@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -563,8 +562,6 @@ h6,
 #social-buttons4-15 .btn-social {
   color: #fff;
 }
-
-
 #header3-1x .mbr-section-title,
 #header3-1x .mbr-section-subtitle {
   text-align: center;
@@ -572,27 +569,19 @@ h6,
 #content1-1y P {
   font-size: 20px;
 }
-#header1-k .mbr-section-title {
-  color: #000000;
+#header3-1z .mbr-section-title,
+#header3-1z .mbr-section-subtitle {
   text-align: center;
 }
-#header1-k .mbr-section-lead {
-  color: #000000;
+#content1-20 P {
+  font-size: 20px;
 }
-#header1-k .mbr-section-lead SPAN {
-  font-size: 36px;
+#header3-21 .mbr-section-title,
+#header3-21 .mbr-section-subtitle {
+  text-align: center;
 }
-#header1-i .mbr-section-lead {
-  font-family: 'Roboto', sans-serif;
-  color: #000000;
-  text-align: left;
-}
-#header1-i .mbr-section-lead FONT {
-  color: #000000;
-}
-#header1-i .mbr-section-title {
-  font-family: 'Roboto', sans-serif;
-  color: #000000;
+#content1-22 P {
+  font-size: 20px;
 }
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
